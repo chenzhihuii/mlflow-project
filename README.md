@@ -1,2 +1,2 @@
 # mlflow
-A simple mlflow project for MK MLOps
+A simple mlflow project for MLOps practice subject
